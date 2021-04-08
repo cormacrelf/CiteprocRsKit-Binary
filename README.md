@@ -1,13 +1,7 @@
 # CiteprocRsKit-Binary
 
 This is a binary distribution of
-[CiteprocRsKit](https://github.com/cormacrelf/CiteprocRsKit), built and updated
-by GitHub Actions.
+[CiteprocRsKit](https://github.com/cormacrelf/CiteprocRsKit). You can install
+this directly with SwiftPM by using this repo
+(`https://github.com/cormacrelf/CiteprocRsKit-Binary`) as a dependency.
 
-There are two branches:
-
-- master (tagged CiteprocRsKit releases only, use with a version range)
-- nightly (use as a branch only)
-
-The nightly one is updated whenever a GitHub Actions run completes on
-CiteprocRsKit's master branch.

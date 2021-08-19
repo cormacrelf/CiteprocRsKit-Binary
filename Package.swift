@@ -12,7 +12,7 @@ let package = Package(
         .binaryTarget(
             name: "CiteprocRsKit",
             url: "https://github.com/cormacrelf/CiteprocRsKit/releases/download/v0.2.1/CiteprocRsKit.xcframework.zip",
-            checksum: "0c63c8299aaa1a7543691b87013eb889cb15fc216821a36c4f89aca0abfedd81"
+            checksum: "f04fd6e97967860dcfdfeda2f6a7f94b03a7ce477917610626f6a332e0a9caa4"
         ),
     ]
 )

@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CiteprocRsKit",
-            url: "https://github.com/cormacrelf/CiteprocRsKit/releases/download/v0.2.1/CiteprocRsKit.xcframework.zip",
-            checksum: "f04fd6e97967860dcfdfeda2f6a7f94b03a7ce477917610626f6a332e0a9caa4"
+            url: "https://github.com/cormacrelf/CiteprocRsKit/releases/download/v0.3.0/CiteprocRsKit.xcframework.zip",
+            checksum: "997a2bf52e1da1fc93936791d93e7de4768413b709bbb95031b583935632eefc"
         ),
     ]
 )

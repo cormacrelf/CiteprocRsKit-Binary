@@ -1,4 +1,8 @@
-# CiteprocRsKit-Binary
+# Archived
+
+Please use <https://github.com/cormacrelf/CiteprocRsKit> directly instead.
+
+## CiteprocRsKit-Binary
 
 This is a binary distribution of
 [CiteprocRsKit](https://github.com/cormacrelf/CiteprocRsKit). You can install
